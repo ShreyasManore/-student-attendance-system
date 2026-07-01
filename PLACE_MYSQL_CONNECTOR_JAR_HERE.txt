@@ -1,0 +1,10 @@
+Place the MySQL Connector/J JAR file here.
+
+Download it from:
+https://dev.mysql.com/downloads/connector/j/
+
+Example file name: mysql-connector-j-8.3.0.jar
+
+This JAR is required on the classpath when compiling and running the
+project, since it contains the JDBC driver used by DatabaseConnection.java
+to connect to MySQL.
